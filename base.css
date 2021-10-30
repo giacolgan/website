@@ -19,7 +19,7 @@ h2:hover {
 .header {
 	  padding: 10px;
 	  text-align: right;
-	  background: #FCF7FF;
+	  background: #b5838d;
 }
 .icon-logo {
     height: 24px;
@@ -44,6 +44,6 @@ p {
 		  font-style:  italic;
 }
 body {
-  background: #FCF7FF;
+  background: #b5838d;
 }
 	
