@@ -1,11 +1,11 @@
 h1   {
-		  font-family: Helvetica;
-		  font-size: 600%;
-		  font-style: italic;
-		  font-weight:  bold;
-		  padding-left: 10%;
-		  padding-top: 10%;
-		  margin: 0;
+	  font-family: Helvetica;
+	  font-size: 600%;
+	  font-style: italic;
+	  font-weight:  bold;
+	  padding-left: 10%;
+	  padding-top: 10%;
+	  margin: 0;
 }
 h2 {
 	  font-family: Tahoma;
@@ -38,9 +38,9 @@ a:link {
   text-decoration: none;
 }
 p {
-		  font-family: Helvetica;
-		  font-size:  80%;
-		  font-style:  italic;
+  font-family: Helvetica;
+  font-size:  80%;
+  font-style:  italic;
 }
 body {
   background-color: #fcf7ff;
