@@ -6,6 +6,7 @@ h1   {
 	  padding-left: 10%;
 /* 	  padding-top: 2%; */
 	  margin: 0;
+	  /*color:  #153451;*/
 }
 h2 {
 	  font-family: Tahoma;
@@ -15,15 +16,15 @@ h2 {
 }
 h2:hover {
 	font-weight: bold;
+	/*color:  #6d6875;*/
 }
 .header {
 	  padding: 10px;
 	  text-align: right;
 }
 .selfie {
-    height: 300px;
-    width: 300px;
-    text-decoration:none;
+    height: 150px;
+    width: 150px;
     border: blue;
 }
 .icon-logo {
@@ -41,6 +42,11 @@ h2:hover {
 }
 a:link {
   text-decoration: none;
+  color:  #000000;
+}
+a:visited {
+  text-decoration: none;
+  color:#000000;
 }
 p {
   font-family: Helvetica;
