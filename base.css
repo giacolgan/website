@@ -42,7 +42,104 @@ h2:hover {
     filter: alpha(opacity=60);
     text-decoration:none;
 }
+.icon-logo:hover {body {
+	height: 100vh;
+	padding: 0;
+	background-color:  #0B3A46 ;
+}
+h1   {
+	font-family: Helvetica;
+	font-size: 600%;
+	font-weight:  bold;
+	padding-left: 10%;
+	padding-top: 1%; 
+	margin: 0;
+	color:  #D6DBD2;
+}
+h2 {
+	font-family: Tahoma;
+	font-size: 100%;
+	display: inline;
+	font-weight: 100;
+	color:  #D6DBD2;
+}
+h3 {
+	font-family: Tahoma;
+	font-size: 100%;
+	display: inline;
+	font-weight: 100;
+	color:  #FCA311;
+}
+h2:hover {
+	font-weight: bold;
+	color:  #FCA311;
+}
+.header {
+	padding: 10px;
+	text-align: right;
+}
+.selfie {
+    height: 200px;
+    width: 200px;
+    border: blue;
+}
+.icon-logo {
+	height: 24px;
+	width: 24px;
+	margin: 0px 12px 0px 2px;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	text-decoration:none;
+}
 .icon-logo:hover {
+	opacity: 0.9;
+	filter: alpha(opacity=90);
+	text-decoration:none;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color:#FCA311;
+}
+a:visited {
+    text-decoration: none;
+}
+p {
+	font-family: Helvetica;
+	font-size:  110%;
+	font-style:  italic;
+	color:  #D6DBD2;
+}
+.triangle-med {
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 140px solid #B84900;
+	position: absolute;
+  	bottom: 0;
+}
+.triangle-l {
+	width: 0;
+	height: 0;
+	border-left: 85px solid transparent;
+	border-right: 85px solid transparent;
+	border-bottom: 170px solid #FCA311;
+	position: absolute;
+  	bottom: 0;
+}
+.triangle-sm {
+	width: 0;
+	height: 0;
+	border-left: 55px solid transparent;
+	border-right: 55px solid transparent;
+	border-bottom: 110px solid #B84900;
+	position: absolute;
+  	bottom: 0;
+}
+	
     opacity: 0.9;
     filter: alpha(opacity=90);
     text-decoration:none;
