@@ -20,6 +20,12 @@ h2:hover {
 	  padding: 10px;
 	  text-align: right;
 }
+.selfie {
+    height: 100px;
+    width: 100px;
+    margin: 0px 12px 0px 2px;
+    text-decoration:none;
+}
 .icon-logo {
     height: 24px;
     width: 24px;
