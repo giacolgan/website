@@ -5,3 +5,5 @@ to do
 - write up other pages
 - add image
 - add color?
+- fonts
+- clean up code
