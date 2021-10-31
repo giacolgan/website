@@ -8,3 +8,4 @@ to do
 - check links
 - SEO
 - phone compatibility
+- domain
