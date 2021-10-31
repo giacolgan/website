@@ -7,3 +7,4 @@ to do
 - clean up code
 - check links
 - SEO
+- phone compatibility
